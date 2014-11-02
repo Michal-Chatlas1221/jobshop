@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1414924155 source:/home/michal/Dokumenty/PP/Semestr2/OK/JobshopGreedy/main.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+
